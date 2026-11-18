@@ -1,0 +1,13 @@
+__pycache__/
+cache/
+*.pyc
+.idea/
+.env
+.venv/
+*.csv
+*.xlsx
+*.json
+data/
+data_out/
+cache/
+analysis/

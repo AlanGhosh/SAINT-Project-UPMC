@@ -1,0 +1,11 @@
+pandas
+numpy
+googlemaps
+openrouteservice
+folium
+branca
+requests
+shapefile
+msoffcrypto
+regex
+python-dotenv
